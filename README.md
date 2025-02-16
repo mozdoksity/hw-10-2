@@ -173,3 +173,7 @@ listen web_tcp
         server s2 127.0.0.1:9999 check inter 3s
         server s3 127.0.0.1:9898 check inter 3s
 ```
+
+
+<img src = "img/10_2_2_1.jpg" width = 100%>
+<img src = "img/10_2_2_2.jpg" width = 100%>
